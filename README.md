@@ -55,6 +55,7 @@
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShiinjiZX&theme=tokyonight" width="45%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShiinjiZX&theme=tokyonight" width="45%">
+	<h2>Thanks To siputzx</h2>
   </p>
 </div>
 

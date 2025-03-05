@@ -20,6 +20,7 @@
 <div align="center">
   <h2>🌟 About Me</h2>
   <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <h2>Thanks To siputzx</h2>
 </div>
 
 <div align="center">
@@ -33,7 +34,6 @@
   </a>
   <br>
   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=ShiinjiZX&data=followers,repositories,stars,commits&theme=nautical"/>
-  <h2>Thanks To siputzx</h2>
 </div>
 
 <div align="center">
